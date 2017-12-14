@@ -1,1 +1,3 @@
 Ouvrez le fichier html dans votre navigateur et arrangez-vous pour que ça marche!
+
+La ghpages : https://elisademanez.github.io/jquery-switcher/
